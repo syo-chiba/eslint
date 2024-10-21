@@ -1,0 +1,7 @@
+{
+  "rules": {
+    "no-console": "error",
+    "eqeqeq": ["error", "always"],
+    "curly": "error"
+  }
+}
